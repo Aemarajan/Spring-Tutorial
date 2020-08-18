@@ -1,5 +1,6 @@
 This project run by Spring Framework
 
+
 In this project we create 3 classes, 1 interface and 1 configuration file
 
 1. SpringApp.java (Main Class)
@@ -27,3 +28,7 @@ System.out.println(coach.getDailyWorkout());
 
 Output:
 Spend 30 minutes on batting practice
+
+
+Note:
+We can easily access the other class objects using changing the configure file
