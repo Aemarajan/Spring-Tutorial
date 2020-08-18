@@ -1,0 +1,9 @@
+package com.ccoder;
+
+public interface Coach {
+	
+	public String getDailyWorkout();
+	
+	public String getFortuneService();
+
+}
